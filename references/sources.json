@@ -1,0 +1,108 @@
+{
+  "source": "Local Stitch design exports",
+  "access": "Local reference files; live project version not verified",
+  "screens": [
+    {
+      "name": "L2 Jelajahi Barang Desktop",
+      "local_path": "references/stitch-desktop.png",
+      "mapped_to": "PRD 1.1 L1 Beranda"
+    },
+    {
+      "name": "L2 Jelajahi Barang Mobile",
+      "local_path": "references/stitch-mobile.png",
+      "mapped_to": "PRD 1.1 L1 Beranda"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Dompet hitam",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA8pKQCHcKhN_J71VLUvwhDNQf4LFvIbH0-Ri7b0ET_E2L2ZrIa1b3hAyZ_hOAZAHkdIMuc9qi1zQy8g5wR8pSyZdAnV6dY22yFkZLN6VaAfqw0OHL_ohmWGLhsl8Rf2rlTazQOhgMyLaqgznO0A_uduKr0b3uoUq4FXx_6snkL9PClAks8lhYWaBq5zxZ6oFVxacqGElAVqEzL36km-rFpoPezKeUvvBV7GEOhBJx_tsmQ85BrJnbrL5YZZtg2qkdQyq50cabvRg",
+      "local_path": "assets/item-01.jpg"
+    },
+    {
+      "name": "Botol biru",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBURx9ELEabMqYjm9RKRSkIbqo6p1nJNNTnXvd4nnT6C66Jl9qfPcCjYC984bUad3ENGFBeuqHY4tTUh-hAvThlXYH641uwcD0mypI6xjnPka30Fl-_FfffFlk3T15GYnz4u4wMnCEG-eZBXdFm-0_gcExdB_6LqzvjVNN2tHbkOMCXO9DogX5WXInRjKjbGF_1WnbyVFIuL01LYgaf3pwM6mxpjB0PMOu_KdDkSgAaMEOpQ3ptBFpulqwcPJ5ZM791ahjmRWczug",
+      "local_path": "assets/item-02.jpg"
+    },
+    {
+      "name": "Kunci motor",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCm6WV4osYt7EWoTP3Mh6zQvJ88UP98GveFKykjCRyluqEIlSJyz-kmmd6NJmC1Vp59H9c4P3zKYIhP9dZ2XF-ds43pdxyC-JoaTNp_a5CxQDZZE8yqfgqUWYr9N_Sk9SDuMB_I0NCFmWl8aXIUAN7ELlV4rq_9XCADkISoCNCnzKKiz5kBn6q7q2Tl01xRPCHoG33IQAzBFb5NJ9s-qcNNIxdrj32o9la8NaB-znnB4rPl27ZFMGJUQq_IGW5qjI6ss8F9oS61lA",
+      "local_path": "assets/item-03.jpg"
+    },
+    {
+      "name": "Kacamata hitam",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAFKUSFQ8d35mJl0cp-A2ORdsIbAHAciEODUYbot0ee8PdyxspRJSrRl3o-MqAaxB4JanySsKW4PRh4GHeeX_OkvS8usVa20-mi1HFPAK7CMNfYeaW8HgSQZZWqoAcSZRxHi2NWRRRRFhf2zoymFvj9Y8HfMsM_lBACfPW7vkxF2d_QWAGqiM0_d1dz5N1hoPrLK-1ldqmt4uEQDKPHCyNoBvHbtHXxO55Yc8uiFIasa5ntNPCjUa79j0UL2isD4MpRWN4-pTrMAw",
+      "local_path": "assets/item-04.jpg"
+    },
+    {
+      "name": "Payung lipat",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCbowyHRfLM0BjwRarxI4HFmxdIvRyeG9E4UuXcSz0rGOF8w0ugA5hsrKRkqQ1u2ny55yBN9QKZJ8LS8UwUgiJoZi20xK7TMQTyYk0m3IgVUfdhhpzqmy4490qeJqG6zxv2MgdoMFtEpx6lfNO9CbtX8G4gmLFVgYvCj7-OGARiKPvPyLs-l5KO4Ru9sA34E8wyVorMuXqOmYB5r_25Tx40rj7zE0asY2wvBVLKQdcBqAoYZy3gWUzRkvT0SWDN0disRPWLkHaWow",
+      "local_path": "assets/item-05.jpg"
+    },
+    {
+      "name": "Earphone putih",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmuJNfkzMcjJ2UKqynGiU6IQ8BYJCHi7o9wbuQWfHYP1ni_TcssVKBo9Q4rdSHMuKU1-pa54aahd43N78r2C_1TgbzXLnQsQgnW13aPm-08Vjnb4IugYdRTkddZhdz5tabzBEgzqGbYcUSliyNskHABXlX-y60PxBYV57Kn-dW3TMA_tQ3-Rc0nXnXkoins7D4OEDQCjDVgUTsPP2kwhe_2Gfzg6R2kBv-jXzJLAt7e9ngfxoJhcqtvB7m-2uSoUUupyN23gVP0w",
+      "local_path": "assets/item-06.jpg"
+    },
+    {
+      "name": "Tas kanvas",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuADnamUnGZkcL8CME5vo017aQKKN3po5h1uXWl91W6YO07p-S6uIhVqAQ4Btdza624TkQPvv_f7Bn0vc8CEEQRgFSvg9_OwSvmDkuR_PQ2PvDsE8o3XxnRWcEVst88sP9RkWiGaBNJs9_EPzmWfVQQ8GWkBjdLkq6Hs0wo_LLxLswqruEY9MLDJOM9PWHKbQh6aWu_RD0q-mQN_O-0Tul6soCtmUwV06CHqY8s-a6DhCw7IALReJYFRRyq_ftSdwgkW2Cuazr8uQg",
+      "local_path": "assets/item-07.jpg"
+    },
+    {
+      "name": "Jam tangan",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDg3eQQpbrmknJkqxr47o4ioGStX6R4aWclxQr25-ZMuyjgg1fhTynHbLgY6JkScjnXm2Btg8tQlj3FVmWLUeOMxVXShy7DXDVmcppyvRUIUL-aSuWv9IoOToNexN3GWedpA1mnikTkWVYQDDuB12VlEYsgSnLhqsLi3kr3hgSqy9PJ5mmSXY1MmDctGRACfT36bsOQmOdsF5wTLAwvCXRqppl_TF5-HyP7TimfL4a71ywYhM5z6ElWmufhSCbSjU1u4dqH0XRi1A",
+      "local_path": "assets/item-08.jpg"
+    },
+    {
+      "name": "Buku catatan",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDvRuNuoa2Apopjmpp5a7qNT4KH2-ctsuj4mmrkuF1PouYptcd8ziFES_do0Z8x1uxB_mHM87QwdfcByPCLXVrMqqn4LgUx5_KROQaYXXCxXS8daIrq2Zirlfgic0Ip5cfk9HfSn-OkhRw4R7Of5EvnTZnGbYQSyQBC8ZEdMZXrJ3Rz_sSWvvPK0Q9zwG9TI6BnEddIqhbtylEmU6XgWHEQOkARqLS4j4LSoUY6xjoxZtKooIvHWcmDWbt317HK-40psSMn_ZyEPA",
+      "local_path": "assets/item-09.jpg"
+    },
+    {
+      "name": "Charger laptop",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAGoCaWATiYGEHtl08Dzx883ATfRQgKMswHbzw100zVXUBMR_ptATtA4nD2kfLJUItMOSYYIeZKys0Rkzdx28FHvJNZgcz5aUDH2FNMoLsPHVfcCx_vQyxm-TAmV3KhGiF0QkJNJnN3Dw-hbVgF1xxQG6YQEbKrrQ6CRZhUXg3YTAWGWmBM0ahnCdlp36VkOp-fq35eC5STSObmIuuJZRHmFQU6h5JgJ7D774kVIIfbacqbzueP39koYSHmRJxQK2VdbiElXU5R_Q",
+      "local_path": "assets/item-10.jpg"
+    },
+    {
+      "name": "Jaket abu-abu",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBY7fUsSTGXQRiCa1vPk4exIUCGIJ5n4fnwGW-mXG96RSjewE0ngXoAnGDA61_4hwzAivbcZy8YWp8giWzbsokYJkFtH3OPm2F3dRhuieB5SBCu1hJAlXPdNuXHTdfXlsxJdlPJ-pvV-7cZ1BwMk9DLc_YDvCJ8JNFk1VE0_WL6sBQowJlXqKGJ8wmwXFSYFodNi0RRmSfypBFz7EfE6Rh1UD6MdysrjL-7KS1l7TKpQiIXkzklpkbsx33b0hYh9vlBP4SgfBEiqw",
+      "local_path": "assets/item-11.jpg"
+    },
+    {
+      "name": "Tempat pensil",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBFfq5W5Hes9zG7EQ3_G7LFp5Sj8EWP5a15W4oSc7R84koTzX6NNccnu0bF2Pk3THzLLD6xibra0vlS0xvbBgq4akGuwI7uh7kQOe02iJopBR2mLGfa_SgxKdW8eC7CZzECEX5hDkvjgxHFb0myK3fnIt04d_7F4zpaoPJdnQsV-qcdYheyebN36c7Q-qPb2VIeSf4cuJb8l43xljPO_PgYnKB0FetK-c4hEjE5vwz90c_j5-oaMtJgzmkS5YK4z18jWVEAO3eaRA",
+      "local_path": "assets/item-12.jpg"
+    },
+    {
+      "name": "Flashdisk",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuD-J1WznUHUovZ3ov4pwBG_mWVTngj2mKElvFAnsWreeTUqGPFKcvzHgm8xnwCsYtnZ0EGKT9kfe3mXCDxnc4V8meEhzWz81TSo4DH0IK-uB-07ooVguke1K0uK62Xt-sWcRf5EtLZCRA1YcqasytOr6FmExxXPqHIxuNmNtzDfrbCLGaQO2zwdf3swWG7u_9zonJWqsnLCiMJ3IyAP-XRG952CyQn6RXisDmnQjaYu_4a-wYf8vdzFvBPo39scyq1pWf4U17Ul7Q",
+      "local_path": "assets/item-13.jpg"
+    },
+    {
+      "name": "Helm hitam",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBRN8EqSOhOZ7tpVGR1gKofh6YDbotXNHZC3qNNrnCa-9Oyax_RLpvwbCFt6yK1ivekEb-HQvDyCZlfHaFgHciEtrIevdDw8SfBB-PUoSQe89I504FITs7cfGc7Yn4FvsxOQxAGSoSr35_3B8ALomE_hJvPW10-kboIXvX6akF0uJXC2c8EEqqnqm4AVBIW-431PeUoAlxFq7NDgzLd0R7_4zZX30QRJBNaymFQmu4AaUDJJ4ckHFuupeSvF3tv-ylNUCH_L49YFg",
+      "local_path": "assets/item-14.jpg"
+    },
+    {
+      "name": "Dompet cokelat",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAacY6lE5xMZXKWEfgJuPQPzYUh0Bw2NL6t8A9XVZ_a5uLatJadoTdXrIXvyqsqK86ziNMErTqk4K3LhwrIPCYF4I_NajV6RiAwi7Z-M1iDsKYvx6RXxnfnbcrof36fj5-oODMoJALaynIvSJ1bC2s9wxsm_9lgPJVBOiwHy31UTsYSBGqoVZi08w8kU8QOxiUuJuGZD_hG58VKBSOq5sQkukbrCArYbd_PdOt8VHqWqXwYdVCsvHsEfrqGhU1ghmPSPAs63433FQ",
+      "local_path": "assets/item-15.jpg"
+    },
+    {
+      "name": "Botol hijau",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBLvzLM6tF8FCud84hbMlQNOxKhFi-Mxtg7-BblSXnktn-qcfpJQ2aTrOmmXGt3v34ttHFFSkNZmDWfTjvCQlQB_jTbyMBbcdIJppHjJ6yQRk7n-2epvX8O09SEmqjY8hbsPsRKsDqBPzF3Buy95s5TSKXz3Xhm6-8xEBSFJiKgcAMSZFbVh89DXmNUVT1pCYeUC3oMuKm5P9WJZSUl_tl7aJ3igb-dVVPsS9sCD408IhOml-Ih3GgYnWsR1vYhuW4rwzxrT0hgoA",
+      "local_path": "assets/item-16.jpg"
+    },
+    {
+      "name": "Mouse nirkabel",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDdHOc2FmKQ8dphwNHdtiG9YJhSsFqtmRW0Svn0_O18VBOgXmsTJ_32uUnAOwl04orR7EFfaRlNkhQ3dIauD8k6C1uyXLI-rCOsJJFSMzlAk5L48pEOGZu3hBBIL75WWhZLApypr9Lx92PgYMy-ufQzO4nrH5yE1UDZOiHNjpGfToGTpBuQx8wH7NSDRrv9vC1V5iiKIgVWLh3SXxKlkuqMIZuI7BD2UKjAXUR_S_9L5FsaRDvyW8fYCyaTJvTDDWUqXuRPDkVDTA",
+      "local_path": "assets/item-17.jpg"
+    },
+    {
+      "name": "Kunci rumah",
+      "source_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDFabpV6-COHjr5_SB2OOYx3QGCcqT_3i9L6YwVxDXT-JR0w-6lTkbc2DoovpJe5oybaIBdDq3v_vSB-CqnS6f8i_tKrpOnlzzbOGu3MJF-uHFQ1-GyUlHyh2jMSdC4jovJzOsVgvsCVpDyMgQnJzt_4F_Aw9Nk2fvVwXv9aCpQoy4c31wA2DlCwhqNKSchVc_r_G6ggK-0tF8KayrkHmeWBZmn4m8EcZy7YJDi0Eko2hz4DTCpMCc5m8V7L3JHFbHs9UWeY_cYrw",
+      "local_path": "assets/item-18.jpg"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+# Environment variables (only sanitized examples belong in Git)
+.env
+.env.*
+!.env.example
+
+# Credentials and private keys
+.aws/
+.ssh/
+.config/gcloud/
+.npmrc
+.pypirc
+.netrc
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+id_rsa
+id_ed25519
+credentials
+credentials.*
+service-account*.json
+service_account*.json
+*-firebase-adminsdk-*.json
+
+# Browser sessions and authentication state
+.auth/
+playwright/.auth/
+storageState*.json
+storage-state*.json
+
+# Dependencies and generated output
+node_modules/
+output/
+coverage/
+playwright-report/
+test-results/
+.playwright/
+.playwright-cli/
+*.log
+
+# Local tooling and design exports
+.codex/
+.agents/
+.stitch/
+.vscode/
+.idea/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+*.swp
+*.swo
+*~

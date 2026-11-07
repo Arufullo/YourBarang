@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="id" data-type="software" data-motion="quiet">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#A52A3A">
+  <meta name="description" content="Cari dan laporkan barang hilang atau temuan di kampus. Prototipe YourBarang.">
+  <meta name="page-type" content="software">
+  <meta name="site-kind" content="software">
+  <title>YourBarang — Barang Hilang dan Temuan</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="assets/motion/motion.css">
+  <script type="module" src="app.js"></script>
+  <script type="module" src="assets/motion/motion.js"></script>
+</head>
+<body>
+  <!-- Software: forum kampus. Visual mengikuti ekspor Stitch; token, grid, dan urutan isi mengikuti DESIGN.md / PRD 1.1. -->
+  <a class="skip-link" href="#main">Lewati ke konten</a>
+  <header class="app-header"><nav class="container-fluid page-container header-inner" aria-label="Navigasi utama">
+    <a class="brand" href="#/" aria-label="YourBarang, Beranda">YourBarang</a>
+    <div class="header-actions" id="header-actions"></div>
+  </nav></header>
+  <main id="main" class="container-fluid page-container" tabindex="-1"></main>
+  <footer class="page-container app-footer"><span>YourBarang <span class="footer-dot">·</span> Prototipe demo</span><a href="#/panduan">Panduan demo</a></footer>
+  <div id="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="photo-dialog" aria-labelledby="photo-title">
+    <div class="dialog-head"><h2 id="photo-title">Cari lewat foto</h2><button class="icon-button" type="button" data-close aria-label="Tutup dialog foto">×</button></div>
+    <p class="text-muted small">Pilih satu foto barang. JPG, PNG, atau WebP, maksimal 5 MB.</p>
+    <label class="upload-zone" for="search-photo"><span id="photo-upload-icon"></span><span class="fw-bold">Pilih Foto</span><input id="search-photo" class="visually-hidden" type="file" accept="image/jpeg,image/png,image/webp"></label>
+    <div id="search-preview" class="upload-preview" hidden></div>
+    <p id="photo-error" class="field-error" role="alert"></p>
+    <p class="simulation-note"><span class="demo-label">Simulasi</span> Pencocokan memakai kandidat contoh.</p>
+    <div class="dialog-actions"><button class="btn btn-outline-secondary" type="button" data-close>Tutup</button><button id="run-photo" class="btn btn-primary" type="button" disabled>Cari</button></div>
+  </dialog>
+  <dialog id="filter-dialog" aria-labelledby="filter-title">
+    <div class="dialog-head"><h2 id="filter-title">Filter laporan</h2><button class="icon-button" type="button" data-close aria-label="Tutup filter">×</button></div>
+    <form id="filter-form">
+      <div id="filter-fields"></div>
+      <div class="dialog-actions"><button class="btn btn-outline-secondary" type="button" id="reset-filter">Reset Filter</button><button class="btn btn-primary" type="submit">Terapkan Filter</button></div>
+    </form>
+  </dialog>
+  <dialog id="action-dialog" aria-labelledby="action-title"><div class="dialog-head"><h2 id="action-title"></h2><button type="button" class="icon-button" data-close aria-label="Tutup dialog">×</button></div><div id="action-content"></div></dialog>
+  <noscript><p class="page-container">Aktifkan JavaScript untuk mencoba prototipe YourBarang.</p></noscript>
+</body>
+</html>

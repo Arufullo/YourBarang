@@ -1,0 +1,12 @@
+{
+  "name": "yourbarang-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Prototipe lokal YourBarang — HTML, Bootstrap 5.3.3 dan JavaScript vanilla",
+  "scripts": {
+    "start": "python3 -m http.server 8000 --bind 127.0.0.1",
+    "test": "node --test --test-isolation=none checks/core.test.mjs",
+    "check": "node --check app.js && node --check core.js && node --check checks/browser-flows.js"
+  }
+}
