@@ -68,6 +68,8 @@ Gunakan folder `yourbarang-demo` sebagai root repository agar konfigurasi pribad
 
 Sebelum commit, periksa daftar file dengan `git status --short` dan isi perubahan yang akan dikirim dengan `git diff --cached`. `.gitignore` tidak melindungi rahasia yang ditulis langsung dalam kode atau file yang sudah dilacak Git.
 
+Periksa juga seluruh riwayat commit yang akan di-push, termasuk berkas yang pernah ditambahkan lalu dihapus. Pastikan tidak ada API key Stitch, token GitHub, kredensial, atau isi file `.env` di kode, aset, maupun riwayat tersebut. File `.envrc`, penyimpanan kredensial Git/GitHub lokal, dan folder `.secrets/` juga dikecualikan.
+
 Demo ini menggunakan autentikasi simulasi dan penyimpanan browser. Gunakan nama, kata sandi, foto, serta bukti kepemilikan contoh. Data di browser tidak ikut masuk repository kecuali diekspor menjadi file atau screenshot.
 
 ## Berkas

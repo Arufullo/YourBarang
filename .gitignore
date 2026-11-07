@@ -2,11 +2,15 @@
 .env
 .env.*
 !.env.example
+.envrc
 
 # Credentials and private keys
 .aws/
 .ssh/
 .config/gcloud/
+.config/gh/
+.git-credentials
+.secrets/
 .npmrc
 .pypirc
 .netrc
