@@ -11,14 +11,6 @@ python3 -m http.server 8000 --bind 127.0.0.1
 
 Buka **http://127.0.0.1:8000/** di Chrome, Edge, atau Firefox terbaru. Biarkan terminal server terbuka selama demo. Jika port terpakai, gunakan port lain pada perintah dan URL. Jangan membuka lewat `file://`, karena JavaScript memakai ES modules.
 
-## Alur presentasi
-
-1. **L1 Beranda**: 18 laporan Hilang/Temuan dalam satu grid. Cari `dompet` atau `perpustakaan`. Buka **Filter**, pilih jenis/kategori/area/rentang tanggal/status; semua filter digabungkan. Kartu membuka **L2 Detail Laporan** sesuai data. Grid: 2 kolom mulai 360, 3 mulai 768, 4 mulai 992, dan 6 mulai 1280 px. Pagination muncul jika hasil lebih dari 18, termasuk setelah laporan baru diterbitkan.
-2. **Buat Laporan → L4 → L2**: isi jenis, judul (5–60 karakter), kategori, area, tanggal, deskripsi (10–300 karakter). Jam WIB dan foto opsional. Pilih foto untuk melihat pratinjau, atau hapus untuk menerbitkan tanpa foto. Coba tanggal masa depan untuk memeriksa pesan kesalahan. Laporan valid langsung membuka detail. Muat ulang: laporan dan fotonya tetap ada. Ciri privat tidak muncul pada halaman publik.
-3. **Cari lewat foto**: pilih satu JPG/PNG/WebP maksimal 5 MB. **Cari** aktif setelah gambar berhasil dibaca. Hasil berlabel **Simulasi** muncul pada grid yang sama; filter tetap berlaku. **Hapus Foto** memulihkan kata kunci sebelumnya dengan filter aktif. Coba GIF, berkas rusak, atau berkas >5 MB untuk validasi. Escape/Tutup menutup dialog dan mengembalikan fokus. Sesi foto dihapus setelah 15 menit.
-4. **Alur tambahan dari PRD**: buka **Botol biru → Ajukan Klaim → Masuk**. Gunakan email berformat valid dan kata sandi contoh minimal delapan karakter. Isi bukti → **Kirim Klaim → Simulasikan Persetujuan → Atur Pengambilan → Ajukan Jadwal → Simulasikan Setujui Jadwal**. Kedua tombol konfirmasi mewakili dua peran untuk presentasi. Satu konfirmasi belum menyelesaikan laporan; mengubah/membatalkan jadwal menghapus konfirmasi lama. Setelah keduanya, status laporan menjadi Selesai dan hanya muncul di Beranda dengan filter Selesai.
-5. **Aktivitas Saya** memuat laporan lokal, klaim, pesan, saran, notifikasi, dan profil. **Kirim Pesan**, diskusi dan balasan, serta tautkan laporan memakai data lokal. **Panduan demo** di footer menyediakan tautan ke **Panel Admin** contoh.
-
 ## Acuan visual
 
 Implementasi mengacu pada dokumen desain dan PRD versi 1.1 saat pengembangan. Dokumen tersebut tidak diperlukan untuk menjalankan demo dan tidak disertakan di folder ini.
